@@ -1,11 +1,11 @@
-Jeawas blog - Flex Grid
+# Jeawas blog - Flex Grid
 
 این یک پروژه تمرینی برای فلکس و گرید می باشد
 
-ویژگی‌ها
-طراحی واکنش‌گرا (Responsive)
-استفاده از Flex Grid برای چیدمان
-HTML5 و CSS3
+## ویژگی‌ها
+- طراحی واکنش‌گرا (Responsive)
+- استفاده از Flex Grid برای چیدمان
+- HTML5 و CSS3
 
-نحوه اجرا
-فایل index.html را در مرورگر باز کنید.
+## نحوه اجرا
+فایل `index.html` را در مرورگر باز کنید.
